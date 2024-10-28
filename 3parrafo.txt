@@ -1,5 +1,6 @@
-Un párrafo es un fragmento escrito que tiene una unidad de sentido y que se caracteriza por terminar con un punto y aparte. Puede estar constituido por una o más oraciones, puesto que la cantidad de oraciones de un párrafo depende del tema que se busque desarrollar.
+1.Un párrafo es un fragmento escrito que tiene una unidad de sentido y que se caracteriza por terminar con un punto y aparte. Puede estar constituido por una o más oraciones, puesto que la cantidad de oraciones de un párrafo depende del tema que se busque desarrollar.
 
-Las oraciones de un párrafo se separan con punto y seguido. El punto y aparte, que precisamente diferencia un párrafo de otro, indica un corte en los contenidos y marca que el texto debe continuar en la línea siguiente. Por ejemplo:
+2. Lorem ipsum dolor, sit amet consectetur adipisicing elit. Nemo ipsum dicta assumenda iste quod, autem explicabo quae similique necessitatibus eos. Aliquid exercitationem tempora ipsum adipisci. Ullam consequuntur tenetur dolore ut obcaecati consectetur eaque soluta architecto dicta cumque in suscipit eius, modi repudiandae, magni voluptas voluptate distinctio accusantium nemo expedita minima!
 
-Entonces, lo que diferencia a un párrafo de otro es la presencia de un punto y aparte, y también la idea central que contiene cada uno, dado que los párrafos presentan unidad temática.
+3. Lorem ipsum, dolor sit amet consectetur adipisicing elit. Quam tenetur repellendus dolorum consequatur eveniet nihil tempora incidunt facere assumenda nesciunt quos perspiciatis nostrum dolore architecto explicabo, odit sed voluptatem modi earum quisquam aut facilis ipsam? Illum assumenda doloremque architecto sed. Quia autem harum totam eveniet soluta illum ad distinctio, accusantium aperiam consequuntur blanditiis repudiandae voluptate, provident nostrum velit officia asperiores.
+
